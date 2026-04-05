@@ -6,6 +6,8 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Online-brightgreen)](https://bounce12340.github.io/Aatomic-Habits-zh/)
 [![Last Updated](https://img.shields.io/badge/last_updated-2026--04--05-blue)]()
 [![License](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-lightgrey)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/bounce12340/Aatomic-Habits-zh?style=flat)](https://github.com/bounce12340/Aatomic-Habits-zh/stargazers)
+[![Issues](https://img.shields.io/github/issues/bounce12340/Aatomic-Habits-zh)](https://github.com/bounce12340/Aatomic-Habits-zh/issues)
 
 ---
 
@@ -23,14 +25,35 @@
 
 採用「框架萃取」而非逐字翻譯的方式，提煉書中最具價值的心理模型、研究數據與實踐工具，以視覺化、可互動的形式呈現。
 
+### 📖 原著資訊
+
+| 項目 | 資訊 |
+|------|------|
+| **書名** | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones |
+| **作者** | James Clear |
+| **出版年份** | 2018 |
+| **出版社** | Avery (英文版) / 方智出版社 (繁體中文版) |
+| **暢銷紀錄** | 《紐約時報》暢銷榜冠軍、全球銷量超過 1500 萬冊 |
+
 ### ✨ 核心特色
 
-- 📊 **數據視覺化** — 複利效應、潛力潛伏期的數學圖解
-- 🎨 **互動式設計** — 20 項自我評估清單，即時追蹤進度
-- 🧭 **直觀導覽** — 黏著式導覽列 + 捲動進度條
-- 💎 **科學風格** — 深靛藍底色搭配青碧、紫羅蘭漸層
-- 📱 **全響應式** — 桌面、平板、手機完美適配
-- 🚀 **零依賴** — 單一 HTML 檔案，僅需 Google Fonts CDN
+| 特色 | 說明 |
+|------|------|
+| 📊 **數據視覺化** | 複利效應、潛力潛伏期的數學圖解 |
+| 🎨 **互動式設計** | 20 項自我評估清單，即時追蹤進度 |
+| 🧭 **直觀導覽** | 黏著式導覽列 + 捲動進度條 |
+| 💎 **科學風格** | 深靛藍底色搭配青碧、紫羅蘭漸層 |
+| 📱 **全響應式** | 桌面、平板、手機完美適配 |
+| 🚀 **零依賴** | 單一 HTML 檔案，僅需 Google Fonts CDN |
+| ⚡ **載入快速** | 無外部 JS 框架，純原生實現 |
+
+---
+
+## 📸 螢幕截圖
+
+![螢幕截圖](https://bounce12340.github.io/Aatomic-Habits-zh/screenshot.png)
+
+> 主頁面展示：複利效應視覺化 + 習慣迴路四步驟
 
 ---
 
@@ -43,6 +66,16 @@ Aatomic-Habits-zh/
 ├── README.md           # 本說明文件
 └── LICENSE             # 創用 CC 授權條款
 ```
+
+---
+
+## 🎯 適合對象
+
+- ✅ 想建立好習慣但總是失敗的人
+- ✅ 想戒除壞習慣卻屢戰屢敗的人
+- ✅ 喜歡視覺化學習的讀者
+- ✅ 想快速掌握《原子習慣》核心概念的人
+- ✅ 需要自我評估工具的實踐者
 
 ---
 
@@ -97,6 +130,18 @@ open index.html
 
 ---
 
+## 🗺️ 學習路線圖
+
+```
+開始 → 複利效應 → 潛力潛伏期 → 身份認同 → 習慣迴路
+                                      ↓
+         第一法則 ← 第二法則 ← 第三法則 ← 第四法則
+                                      ↓
+                              自我評估 → 實踐行動
+```
+
+---
+
 ## 🔧 部署到 GitHub Pages
 
 1. 將此倉庫 Push 到 GitHub
@@ -104,6 +149,14 @@ open index.html
 3. 選擇 **Source: Deploy from a branch**
 4. 選擇 **Branch: main / Root**
 5. 等待 1–3 分鐘，即可透過 `https://yourusername.github.io/repo-name/` 訪問
+
+---
+
+## 📝 更新日誌
+
+| 日期 | 版本 | 更新內容 |
+|------|------|----------|
+| 2026-04-05 | v1.0.0 | 初始發布：完整四大法則 + 20 項自我評估 |
 
 ---
 
@@ -131,6 +184,19 @@ open index.html
 
 ---
 
+## 💬 常見問題
+
+### Q1: 這個網頁和原書有什麼不同？
+A: 本專案是「框架萃取」，聚焦核心概念和實踐工具，而非逐字翻譯。適合快速掌握重點。
+
+### Q2: 可以在手機上使用嗎？
+A: 可以！本網頁採用響應式設計，在手機、平板、電腦上都能完美顯示。
+
+### Q3: 可以商用嗎？
+A: 不可以。本專案採用 CC BY-NC-SA 4.0 授權，僅限非商業用途。
+
+---
+
 ## 🤝 貢獻
 
 歡迎提出 Issue 或 Pull Request！
@@ -141,7 +207,17 @@ open index.html
 
 ---
 
-## 🔗 相關專案
+## 🔗 相關資源
+
+### 📚 原著購買
+- [Atomic Habits（英文版）- Amazon](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+- [原子習慣（繁體中文版）- 博客來](https://www.books.com.tw/products/0010806061)
+
+### 🌐 相關連結
+- [James Clear 官方網站](https://jamesclear.com/)
+- [官方 Atomic Habits 資源](https://jamesclear.com/atomic-habits)
+
+### 🔗 相關專案
 
 | 專案 | 說明 | 連結 |
 |------|------|------|
@@ -150,10 +226,20 @@ open index.html
 
 ---
 
+## 📬 聯絡與反饋
+
+- 📧 問題回報：[開立 Issue](https://github.com/bounce12340/Aatomic-Habits-zh/issues)
+- 💡 功能建議：[開立 Issue](https://github.com/bounce12340/Aatomic-Habits-zh/issues)
+- 🎨 貢獻代碼：[提交 PR](https://github.com/bounce12340/Aatomic-Habits-zh/pulls)
+
+---
+
 <div align="center">
 
 _以 Claude AI 輔助整理 · 僅供個人學習參考_
 
-**Made with ❤️ by Josh**
+**Made with ❤️ by Josh (蔡忠栩)**
+
+⭐ 如果這個專案對你有幫助，請給個 Star 支持一下！
 
 </div>
