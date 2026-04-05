@@ -3,7 +3,7 @@
 > **Atomic Habits** by James Clear  
 > 深度閱讀筆記 · 繁體中文 · 互動式網頁
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Online-brightgreen)](https://bounce12340.github.io/atomic-habits-zh/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Online-brightgreen)](https://bounce12340.github.io/Aatomic-Habits-zh/)
 [![Last Updated](https://img.shields.io/badge/last_updated-2026--04--05-blue)]()
 [![License](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-lightgrey)](LICENSE)
 
@@ -11,7 +11,7 @@
 
 ## 🌐 線上預覽
 
-**👉 https://bounce12340.github.io/atomic-habits-zh/**
+**👉 https://bounce12340.github.io/Aatomic-Habits-zh/**
 
 > 首次部署後需等待約 1–3 分鐘讓 GitHub Pages 生效。
 
@@ -37,7 +37,7 @@
 ## 📁 檔案結構
 
 ```
-atomic-habits-zh/
+Aatomic-Habits-zh/
 │
 ├── index.html          # 主要互動式學習網頁（單一檔案，含所有 CSS/JS）
 ├── README.md           # 本說明文件
@@ -146,7 +146,7 @@ open index.html
 | 專案 | 說明 | 連結 |
 |------|------|------|
 | 5 AM Club 繁中學習筆記 | 《The 5 AM Club》互動式網頁（奶油清爽風格） | [5am-club-zh](https://github.com/bounce12340/5am-club-zh) |
-| 原子習慣 繁中學習筆記 | 本專案（科學青碧風格） | [atomic-habits-zh](https://github.com/bounce12340/atomic-habits-zh) |
+| 原子習慣 繁中學習筆記 | 本專案（科學青碧風格） | 本頁 |
 
 ---
 
